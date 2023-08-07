@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Vitória Pinheiro...</h1>
 
 Sou desenvolvedora Web voltado para Front-end. 
-Tenho estudo e aplicado os conceitos fundamentais de lógica de programação e estruturas de dados.
+Tenho estudado e aplicado os conceitos fundamentais de lógica de programação e estruturas de dados.
 Além de de me aperfeiçoar no JavaScript, tenho me empenhado no estudo e na criação de sites responsivos 
 usando HTML e CSS, com um interesse especial em explorar frameworks front-end, como React e Vue.js. 
 
